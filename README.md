@@ -1,4 +1,4 @@
-# Protótipo de Portfólio Profissional
+# Protótipo de Portfólio
 
 # Figma Link 
 https://www.figma.com/design/W7ew6KH9UAvU4R1KQLewV8/Esbo%C3%A7o-POrtif%C2%B4lio?node-id=0-1&t=NAP7A2jAe0yIc9Ed-1
