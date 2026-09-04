@@ -1,0 +1,86 @@
+.sobre-container {
+  padding: 40px;
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.coluna-sobre-mim {
+  flex: 1; 
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.coluna-imagem-minha {
+  width: 550px;
+  min-width: 550px;
+  height: 700px;
+  display: flex;
+}
+
+.left-card {
+  background-color: #495d66;
+  padding: 35px;
+  border-radius: 8px;
+  flex: 1; 
+}
+
+.left-card h2 {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.left-card p {
+  color: #fff;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.right-card {
+  background-color: #495d66;
+  padding: 40px 30px;
+  border-radius: 8px;
+  width: 100%;
+  height: 100%; 
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; 
+  text-align: center;
+}
+
+.imagem-minha {
+  width: 260px;
+  height: 260px;
+  margin-bottom: 30px;
+  border-radius: 50%;
+  border: 5px solid #75D8D3;
+  overflow: hidden;
+}
+
+.imagem-minha img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.right-card h2 {
+  color: #75D8D3;
+  margin: 10px 0;
+  font-size: 30px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.right-card h4 {
+  color: white;
+  margin: 0;
+  font-size: 18px;
+  font-weight: 500;
+}
